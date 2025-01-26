@@ -7,7 +7,7 @@ bandOptimizer is a Streamlit-based web application designed to help schools mana
 ✨ Key Features
 AI/ML-Powered Insights: Automatically categorize and predict school bandwidth requirements.
 Easy-to-Use Interface: Streamlit ensures a seamless and interactive experience for users.
-CSV File Support: Upload data in CSV format to instantly analyze and get predictions.
+CSV File Support: Upload data in CSV format to analyze and get predictions instantly.
 Sample Files Included: Use the provided sample CSV files in the repository to test the app and see predictions in action.
 
 🔧 Installation

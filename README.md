@@ -1,19 +1,33 @@
-🌐 bandOptimizer
-A cutting-edge solution for optimizing school bandwidth usage with AI/ML predictions.
+# 🌐 **bandOptimizer**  
+_A cutting-edge solution for optimizing school bandwidth usage with AI/ML predictions._  
 
-🚀 About the Project
-bandOptimizer is a Streamlit-based web application designed to help schools manage and optimize their bandwidth usage efficiently. Using AI/ML predictions, it provides insights into bandwidth categories and allows administrators to make data-driven decisions to enhance performance and resource allocation.
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python)  
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![AI/ML API](https://img.shields.io/badge/AI%2FML-API-blueviolet?style=for-the-badge)  
 
-✨ Key Features
-AI/ML-Powered Insights: Automatically categorize and predict school bandwidth requirements.
-Easy-to-Use Interface: Streamlit ensures a seamless and interactive experience for users.
-CSV File Support: Upload data in CSV format to analyze and get predictions instantly.
-Sample Files Included: Use the provided sample CSV files in the repository to test the app and see predictions in action.
+---
 
-🔧 Installation
-Clone the repository:
-git clone https://github.com/your-username/bandOptimizer.git
-cd bandOptimizer
+## 🚀 **About the Project**  
+`bandOptimizer` is a Streamlit-based web application designed to help schools manage and optimize their bandwidth usage efficiently. Using AI/ML predictions, it provides insights into bandwidth categories and allows administrators to make data-driven decisions to enhance performance and resource allocation.
+
+---
+
+## ✨ **Key Features**  
+- **AI/ML-Powered Insights:** Automatically categorize and predict school bandwidth requirements.  
+- **Easy-to-Use Interface:** Streamlit ensures a seamless and interactive experience for users.  
+- **CSV File Support:** Upload data in CSV format to instantly analyze and get predictions.  
+- **Sample Files Included:** Use the provided sample CSV files in the repository to test the app and see predictions in action.  
+
+---
+
+## 🔧 **Installation**  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/bandOptimizer.git
+   cd bandOptimizer
+
 
 
 Install dependencies:

@@ -7,6 +7,8 @@ _A cutting-edge solution for optimizing bandwidth usage in schools and hospitals
 
 ## 🚀 **About the Project**  
 `BandOptimizer` is a Streamlit-based web application designed to help schools and hospitals manage and optimize their bandwidth usage efficiently. Using AI/ML predictions, it provides insights into bandwidth categories and allows administrators to make data-driven decisions to enhance performance and resource allocation.
+![1 1](https://github.com/user-attachments/assets/45e0e6d1-976e-4655-a83b-d1f19e4933c5)
+
 ---
 
 ## ✨ **Key Features**  
